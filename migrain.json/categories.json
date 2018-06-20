@@ -1,0 +1,27 @@
+[
+    {
+        "friendly_name": "Makanan",
+        "id": "1",
+        "name": "makanan"
+    },
+    {
+        "friendly_name": "Pakaian",
+        "id": "2",
+        "name": "pakaian"
+    },
+    {
+        "friendly_name": "Kesenian",
+        "id": "3",
+        "name": "kesenian"
+    },
+    {
+        "friendly_name": "Bangunan",
+        "id": "4",
+        "name": "bangunan"
+    },
+    {
+        "friendly_name": "Lainnya",
+        "id": "5",
+        "name": "lainnya"
+    }
+]

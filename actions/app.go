@@ -42,7 +42,12 @@ func App() *buffalo.App {
 		app.Use(translations())
 
 		app.GET("/", HomeHandler)
-
+		app.GET("/init_db", InitDB)
+		app.GET("/puke_budaya", PukeBudaya)
+		app.GET("/getJSONBudayasByProvinceId/{province_id:[0-9]+}", GetBudayasByProvinceId)
+		app.GET("/getJSONBudayasByProvinceIdAndCategory/{province_id:[0-9]+}/{category_id:[0-9]+}/", GetBudayasByProvinceIdAndCategory)
+		app.GET("/getJSONProvinces", GetProvinces)
+		app.GET("/getJSONProvincesByIslandName/{islandName:[a-zA-Z]+}", GetProvincesByIslandName)
 		app.ServeFiles("/", assetsBox) // serve files from the public directory
 	}
 

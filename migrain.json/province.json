@@ -1,0 +1,200 @@
+[
+    {
+        "friendly_name": "Banten",
+        "id": "1",
+        "island": "jawa",
+        "name": "banten"
+    },
+    {
+        "friendly_name": "DKI Jakarta",
+        "id": "2",
+        "island": "jawa",
+        "name": "dkijakarta"
+    },
+    {
+        "friendly_name": "Jawa Barat",
+        "id": "3",
+        "island": "jawa",
+        "name": "jawabarat"
+    },
+    {
+        "friendly_name": "Jawa Tengah",
+        "id": "4",
+        "island": "jawa",
+        "name": "jawatengah"
+    },
+    {
+        "friendly_name": "DI Yogyakarta",
+        "id": "5",
+        "island": "jawa",
+        "name": "diyogyakarta"
+    },
+    {
+        "friendly_name": "Jawa Timur",
+        "id": "6",
+        "island": "jawa",
+        "name": "jawatimur"
+    },
+    {
+        "friendly_name": "Sumatera Utara",
+        "id": "7",
+        "island": "sumatera",
+        "name": "sumaterautara"
+    },
+    {
+        "friendly_name": "Sumatera Selatan",
+        "id": "8",
+        "island": "sumatera",
+        "name": "sumateraselatan"
+    },
+    {
+        "friendly_name": "Aceh",
+        "id": "9",
+        "island": "sumatera",
+        "name": "aceh"
+    },
+    {
+        "friendly_name": "Bengkulu",
+        "id": "10",
+        "island": "sumatera",
+        "name": "bengkulu"
+    },
+    {
+        "friendly_name": "Jambi",
+        "id": "11",
+        "island": "sumatera",
+        "name": "jambi"
+    },
+    {
+        "friendly_name": "Kepulauan Bangka Belitung",
+        "id": "12",
+        "island": "sumatera",
+        "name": "kepulauan_bangka_belitung"
+    },
+    {
+        "friendly_name": "Kepulauan Riau",
+        "id": "13",
+        "island": "sumatera",
+        "name": "kepulauan_riau"
+    },
+    {
+        "friendly_name": "Lampung",
+        "id": "14",
+        "island": "sumatera",
+        "name": "lampung"
+    },
+    {
+        "friendly_name": "Riau",
+        "id": "15",
+        "island": "sumatera",
+        "name": "riau"
+    },
+    {
+        "friendly_name": "Sumatera Barat",
+        "id": "16",
+        "island": "sumatera",
+        "name": "sumaterabarat"
+    },
+    {
+        "friendly_name": "Kalimantan Barat",
+        "id": "17",
+        "island": "kalimantan",
+        "name": "kalimantanbarat"
+    },
+    {
+        "friendly_name": "Kalimantan Timur",
+        "id": "18",
+        "island": "kalimantan",
+        "name": "kalimantantimur"
+    },
+    {
+        "friendly_name": "Kalimantan Selatan",
+        "id": "19",
+        "island": "kalimantan",
+        "name": "kalimantanselatan"
+    },
+    {
+        "friendly_name": "Kalimantan Tengah",
+        "id": "20",
+        "island": "kalimantan",
+        "name": "kalimantantengah"
+    },
+    {
+        "friendly_name": "Kalimantan Utara",
+        "id": "21",
+        "island": "kalimantan",
+        "name": "kalimantanutara"
+    },
+    {
+        "friendly_name": "Gorontalo",
+        "id": "22",
+        "island": "sulawesi",
+        "name": "gorontalo"
+    },
+    {
+        "friendly_name": "Sulawesi Barat",
+        "id": "23",
+        "island": "sulawesi",
+        "name": "sulawesibarat"
+    },
+    {
+        "friendly_name": "Sulawesi Selatan",
+        "id": "24",
+        "island": "sulawesi",
+        "name": "sulawesiselatan"
+    },
+    {
+        "friendly_name": "Sulawesi Tengah",
+        "id": "25",
+        "island": "sulawesi",
+        "name": "sulawesitengah"
+    },
+    {
+        "friendly_name": "Sulawesi Tenggara",
+        "id": "26",
+        "island": "sulawesi",
+        "name": "sulawesitenggara"
+    },
+    {
+        "friendly_name": "Bali",
+        "id": "27",
+        "island": "bali_nt",
+        "name": "bali"
+    },
+    {
+        "friendly_name": "Nusa Tenggara Barat",
+        "id": "28",
+        "island": "bali_nt",
+        "name": "nusa_tenggara_barat"
+    },
+    {
+        "friendly_name": "Nusa Tenggara Timur",
+        "id": "29",
+        "island": "bali_nt",
+        "name": "nusa_tenggara_timur"
+    },
+    {
+        "friendly_name": "Papua Barat",
+        "id": "30",
+        "island": "papua_maluku",
+        "name": "papuabarat"
+    },
+    {
+        "friendly_name": "Papua",
+        "id": "31",
+        "island": "papua_maluku",
+        "name": "papua"
+    },
+    {
+        "friendly_name": "Maluku",
+        "id": "32",
+        "island": "papua_maluku",
+        "name": "maluku"
+    },
+    {
+        "friendly_name": "Maluku Utara",
+        "id": "33",
+        "island": "papua_maluku",
+        "name": "malukuutara"
+    }
+]
